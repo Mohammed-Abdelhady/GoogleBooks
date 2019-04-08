@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Google Books</string>
+    <string name="thumbnail">thumbnail</string>
+    <string name="title">Beginning Android 2</string>
+    <string name="category">Computers</string>
+    <string name="price">120 EG</string>
+    <string name="author">Mark Murphy</string>
+
+
+    <string name="search">SEARCH</string>
+    <string name="hint">Enter your query </string>
+    <string name="description_image_view">Template for  the image</string>
+    <string name="description_divider">Divider</string>
+    <string name="Failed_to_Load_data">Please check your Internet Connection</string>
+    <string name="NO_RESULT">No matching results</string>
+
+</resources>
